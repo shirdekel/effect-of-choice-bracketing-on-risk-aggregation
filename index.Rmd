@@ -1,0 +1,90 @@
+---
+title             : "Effect of choice bracketing on risk aggregation in repeated-play gambles with no feedback"
+shorttitle        : "Effect of choice bracketing on risk aggregation"
+
+author: 
+  - name          : "Shir Dekel"
+    affiliation   : "1"
+    corresponding : yes    # Define only one corresponding author
+    address       : "Brennan MacCallum Building (A18) Camperdown, NSW 2006, Australia"
+    email         : "shir.dekel@sydney.edu.au"
+  - name          : "Micah Goldwater"
+    address       : "Brennan MacCallum Building (A18) Camperdown, NSW 2006, Australia"
+    email         : "micah.goldwater@sydney.edu.au"
+    affiliation   : "1"
+  - name          : "Dan Lovallo"
+    address       : "Abercrombie Building (H70) Camperdown, NSW 2006, Australia"
+    email         : "dan.lovallo@sydney.edu.au"
+    affiliation   : "2"
+  - name          : "Bruce Burns"
+    address       : "Griffith Taylor (A19) Camperdown, NSW 2006, Australia"
+    email         : "bruce.burns@sydney.edu.au"
+    affiliation   : "1"
+
+affiliation:
+  - id            : "1"
+    institution   : "The University of Sydney, School of Psychology"
+  - id            : "2"
+    institution   : "The University of Sydney, Business School"
+
+authornote: |
+  Shir Dekel https://orcid.org/0000-0003-1773-2446.  
+
+  Portions of this work comprised Shir Dekel’s doctoral dissertation.
+
+abstract: (ref:abstract)
+  
+keywords          : "choice bracketing, risk aggregation, risk aversion, decision making, structural alignment"
+wordcount         : "9018"
+
+bibliography      : '`r here::here("references.bib")`'
+
+floatsintext      : yes
+figurelist        : no
+tablelist         : no
+footnotelist      : no
+linenumbers       : no
+mask              : no
+draft             : no
+
+linkcolor         : "Blue"
+link-citations    : yes
+
+header-includes:
+  # %% Avoid extra spacing due to figures
+  - \raggedbottom
+
+csl               : '`r here::here("apa.csl")`'
+documentclass     : "apa7"
+classoption       : "man, donotrepeattitle"
+output            : papaja::apa6_pdf
+---
+
+```{r setup, include = FALSE}
+opts_chunk$set(
+  echo = FALSE,
+  warning = FALSE,
+  message = FALSE,
+  out.width = "100%"
+)
+```
+
+(ref:abstract) Aggregating the risk of a series of decisions reduces the overall
+risk compared to when each decision is considered individually -- the logic
+behind diversified investment strategies. Most experimental research on a series
+of risky decisions provides participants with immediate feedback for each
+individual choice before presenting the subsequent gamble -- a task-structure
+that inhibits the possibility of risk aggregation. In real-life business
+decisions, feedback is usually not seen until a significant delay with many more
+business decisions made in the interim. This decision-making sequence has the
+potential for systematic risk aggregation. However, it is unclear how people
+determine what decisions cluster together such that those decisions' risks
+become aggregated. In the current work, we presented experimental participants a
+series of scenarios describing potential investments, and investigated multiple
+ways to support clustering or bracketing choices together. We found that showing
+a distribution of outcome probabilities without inter-trial feedback reduced
+risk aversion. Further, we found mixed evidence for an effect of similarity of
+projects, and found only minimal evidence that viewing projects together and
+awareness of the number of projects encourages aggregation. These results
+suggest that risk aggregation is hard to facilitate, at least in laypeople,
+without first aggregating the options for them.

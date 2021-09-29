@@ -1,0 +1,38 @@
+### Results {#results-aggregation-2}
+
+#### Project Investment
+
+The project investment data were analysed as proportions of choice per
+participant, as in Experiment 1. Each experimental condition was compared to the
+same control condition (separate presentation, naive awareness, and distribution
+absent). Figure \@ref(fig:plot-aggregation-2-proportion) shows these data. The
+difference between presentation conditions was not significant,
+`r results_2$proportion$presentation`. Similarly, the
+difference between awareness conditions was not significant,
+`r results_2$proportion$awareness`. However, those that that saw a
+distribution chose to invest significantly more
+(`r results_2$distribution_mean$present$choice`) than those that did
+not see a distribution
+(`r results_2$distribution_mean$absent$choice`),
+`r results_2$proportion$distribution`.
+
+(ref:plot-aggregation-2-proportion) Mean proportion of project acceptance for the presentation, awareness, and distribution effects. The condition on the left of each effect is the reference condition (separate presentation, naive awareness, distribution absent). As such, it is identical for the three effects. Error bars represent 95% confidence intervals. Raw data are plotted in the background.
+
+```{r plot-aggregation-2-proportion, fig.cap = "(ref:plot-aggregation-2-proportion)"}
+plot_2$choice_proportion
+```
+
+Further, as Figure \@ref(fig:plot-aggregation-2-choice-trials) shows, it
+doesn't seem as if the previous awareness by trial effect was replicated.
+
+(ref:plot-aggregation-2-choice-trials) Mean project acceptance for separate presentation, distribution absent condition, by awareness and trial. LOESS method was used for smoothing over trials and the shading represents 95% confidence intervals.
+
+```{r plot-aggregation-2-choice-trials, fig.cap = "(ref:plot-aggregation-2-choice-trials)"}
+plot_2$choice_trials
+```
+
+#### Follow-up
+
+The portfolio choice data from both the number and binary questions were
+congruent with the above, finding that those in the distribution condition were
+more likely to invest (see Appendix \@ref(results-aggregation-2-appendix)).

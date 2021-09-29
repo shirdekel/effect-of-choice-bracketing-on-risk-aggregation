@@ -1,0 +1,16 @@
+book_filename: "effect-of-choice-bracketing-on-risk-aggregation"
+output_dir: "paper"
+delete_merged_file: true
+rmd_files: 
+  - "index.Rmd"
+  - "rmd/introduction.Rmd"
+  - "rmd/experiment_1/introduction.Rmd"
+  - "rmd/experiment_1/method.Rmd"
+  - "rmd/experiment_1/results.Rmd"
+  - "rmd/experiment_1/discussion.Rmd"
+  - "rmd/experiment_2/introduction.Rmd"
+  - "rmd/experiment_2/method.Rmd"
+  - "rmd/experiment_2/results.Rmd"
+  - "rmd/experiment_2/discussion.Rmd"
+  - "rmd/general_discussion.Rmd"
+  - "rmd/references.Rmd"
