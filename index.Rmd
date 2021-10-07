@@ -76,17 +76,17 @@ opts_chunk$set(
 ```
 
 (ref:abstract) Aggregating the risk of a series of decisions reduces the overall
-risk compared to when each decision is considered individually -- the logic
+risk compared to when each decision is considered individually---the logic
 behind diversified investment strategies. Most experimental research on a series
 of risky decisions provides participants with immediate feedback for each
-individual choice before presenting the subsequent gamble -- a task-structure
+individual choice before presenting the subsequent gamble---a task-structure
 that inhibits the possibility of risk aggregation. In real-life business
 decisions, feedback is usually not seen until a significant delay with many more
 business decisions made in the interim. This decision-making sequence has the
 potential for systematic risk aggregation. However, it is unclear how people
 determine what decisions cluster together such that those decisions' risks
 become aggregated. In the current work, we presented experimental participants a
-series of scenarios describing potential investments, and investigated multiple
+series of scenarios describing potential investments and investigated multiple
 ways to support clustering or bracketing choices together. We found that showing
 a distribution of outcome probabilities without inter-trial feedback reduced
 risk aversion. Further, we found mixed evidence for an effect of similarity of
