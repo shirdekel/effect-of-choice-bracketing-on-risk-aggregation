@@ -14,3 +14,5 @@ rmd_files:
   - "rmd/experiment_2/discussion.Rmd"
   - "rmd/general_discussion.Rmd"
   - "rmd/references.Rmd"
+  - "rmd/appendix-a.Rmd"
+  - "rmd/appendix-b.Rmd"

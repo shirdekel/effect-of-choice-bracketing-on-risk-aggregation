@@ -1,0 +1,113 @@
+# Experiment 2
+
+## Power Analysis {#power-analysis-aggregation-2}
+
+The power analysis was conducted using the `pwr` package [@champely2020], based
+on the presentation effect size from Experiment 1, since it was the smallest
+effect. The analysis suggested that a minimum sample size of
+`r aggregation2::power * 4` (`r aggregation2::power` $\cdot$ 4) was required for
+the presentation effect with an expected power of at least 80%.
+
+## Follow-up {#follow-up-materials-aggregation-2-appendix}
+
+Figure \@ref(fig:project-number-aggregation-2) shows the project number
+question. The maximum value that they could enter was set to 20.
+Figures \@ref(fig:portfolio-binary-aggregation-2)
+and \@ref(fig:portfolio-number-aggregation-2) ask participants whether they are
+willing to take all or none of the projects; and how many projects would they
+choose if they could pick randomly (maximum value was set to 20). Those in the
+distribution absent condition were asked the same questions, but without the
+distribution and its explanation.
+
+(ref:project-number-aggregation-2) Experiment 2 project number question.
+
+```{r project-number-aggregation-2, fig.cap = "(ref:project-number-aggregation-2)", out.width = "50%"}
+file.path(
+  materials_2,
+  "project_number.png"
+) %>%
+  image_read() %>%
+  image_trim() %>%
+  image_border(color = "white", geometry = "5x5") %>%
+  image_border(color = "black", geometry = "5x5")
+```
+
+(ref:portfolio-binary-aggregation-2) Experiment 2 binary portfolio question.
+
+```{r portfolio-binary-aggregation-2, fig.cap = "(ref:portfolio-binary-aggregation-2)"}
+file.path(
+  materials_2,
+  "porfolio_binary_distribution_present.png"
+) %>%
+  image_read() %>%
+  image_trim() %>%
+  image_border(color = "white", geometry = "5x5") %>%
+  image_border(color = "black", geometry = "5x5")
+```
+
+(ref:portfolio-number-aggregation-2) Experiment 2 numerical portfolio question.
+
+```{r portfolio-number-aggregation-2, fig.cap = "(ref:portfolio-number-aggregation-2)"}
+file.path(
+  materials_2,
+  "porfolio_number_distribution_present.png"
+) %>%
+  image_read() %>%
+  image_trim() %>%
+  image_border(color = "white", geometry = "5x5") %>%
+  image_border(color = "black", geometry = "5x5")
+```
+
+## Additional Analyses {#results-aggregation-2-appendix}
+
+### Project Number
+
+Participants were asked how many projects they thought they saw.
+Figure \@ref(fig:plot-aggregation-2-project-number) shows that overall people
+correctly estimated the number of projects, with more accuracy for those in the
+aware condition.
+
+(ref:plot-aggregation-2-project-number) Number of projects participants reported seeing, by condition.
+
+```{r plot-aggregation-2-project-number, fig.cap = "(ref:plot-aggregation-2-project-number)"}
+plot_2$project_number
+```
+
+### Portfolio Choice - Binary
+
+Participants were then asked if they would rather invest in all or none of the
+projects. As Figure \@ref(fig:plot-aggregation-2-portfolio-binary) shows, the
+difference between presentation conditions was not significant,
+`r results_2$portfolio_binary$presentation$full_result[[2]]`. The
+awareness effect was also not significant,
+`r results_2$portfolio_binary$awareness$full_result[[2]]`. However,
+those that that saw a distribution chose to invest in all 10 projects
+significantly more
+(`r results_2$distribution_mean$present$portfolio_binary`) than
+those that did not see a distribution
+(`r results_2$distribution_mean$absent$portfolio_binary`),
+`r results_2$portfolio_binary_distribution`.
+
+(ref:plot-aggregation-2-portfolio-binary) Mean choice of investing in all 10 projects for the presentation, awareness, and distribution effects. Note, the condition on the left of each effect is the reference condition (separate presentation, naive awareness, distribution absent). As such, it is identical for the three effects.
+
+```{r plot-aggregation-2-portfolio-binary, fig.cap = "(ref:plot-aggregation-2-portfolio-binary)"}
+plot_2$portfolio_binary
+```
+
+### Portfolio Choice - Number
+
+Subsequently, participants were asked how many projects they would invest in out
+of the 10 that they saw. As
+Figure \@ref(fig:plot-aggregation-2-portfolio-number) shows, the difference
+between presentation conditions was not significant,
+`r results_2$portfolio_number$presentation`. The awareness effect
+was also not significant, `r results_2$portfolio_number$awareness`.
+However, those that that saw a distribution chose to invest in significantly
+more projects than those that did not see a distribution,
+`r results_2$portfolio_number$distribution`.
+
+(ref:plot-aggregation-2-portfolio-number) Mean number of projects chosen in the follow-up for the presentation, awareness, and distribution effects. Note, the condition on the left of each effect is the reference condition (separate presentation, naive awareness, distribution absent). As such, it is identical for the three effects.
+
+```{r plot-aggregation-2-portfolio-number, fig.cap = "(ref:plot-aggregation-2-portfolio-number)"}
+plot_2$portfolio_number
+```
