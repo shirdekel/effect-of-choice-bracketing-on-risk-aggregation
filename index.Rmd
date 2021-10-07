@@ -35,7 +35,7 @@ authornote: |
 abstract: (ref:abstract)
   
 keywords          : "choice bracketing, risk aggregation, risk aversion, decision making, structural alignment"
-wordcount         : "9018"
+wordcount         : "9824"
 
 bibliography      : "references.bib"
 
