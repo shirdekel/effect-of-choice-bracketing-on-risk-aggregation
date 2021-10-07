@@ -17,7 +17,7 @@ the returns of one investment when evaluating a subsequent investment. Any
 results that a farmer may identify from using a new technology will only become
 apparent after many seasons of use. Similarly, it will take many years for a
 multi-business firm to begin to estimate whether the output of a mine resulted
-in the expected return on investment. These are the decisions that this chapter
+in the expected return on investment. These are the decisions that the present study
 investigates: sequences of large risky choices without immediate outcomes.
 
 Risk aggregation is the combination of probability or variance information (or
@@ -56,7 +56,7 @@ beginning to understand the consequences of their decision, and even then the
 outcome may be unclear. However, previous work did not investigate the effect of
 choice bracketing on risky choice without feedback. This is surprising, since
 choice bracketing is exactly the kind of process that should promote aggregation
-in these more realistic decisions. Therefore, this chapter investigated new ways
+in these more realistic decisions. Therefore, the present study investigated new ways
 of encouraging participants to bracket their risky choices, but with a paradigm
 that involves a series of independent choices without feedback. In this way, the
 paradigm is more isometric with real-life risky choice.
@@ -81,7 +81,7 @@ gamble).[^terminology]
     theory, once certain assumptions are added [e.g., @ross1999; @aloysius2007].
     However, a normative discussion is out of the scope of the present work.
 
-[^terminology]: This chapter uses the terminology for gamble types used in
+[^terminology]: The present study uses the terminology for gamble types used in
     @bristow2011, and @camilleri2013.
 
 @wedell1994 replicated the @samuelson1963 anecdote experimentally with a gamble
@@ -181,7 +181,7 @@ understood the independent lotteries as identical or non-identical. This reduces
 the external validity of the study, as most independent risky choice involves
 non-identical outcomes and probabilities. In sum, these studies were not
 designed to research how to facilitate risk aggregation and reduce loss
-aversion. The experiments in this chapter are novel because their goal is to
+aversion. The experiments in the present study are novel because their goal is to
 facilitate risk aggregation without the experimental artefact of immediate
 feedback.
 
@@ -203,7 +203,7 @@ increments with a single evaluation.
 
 Both the original @samuelson1963 anecdote and its subsequent replications show
 that people do have an intuition for aggregation even without the risk being
-calculated exactly for them. This chapter tests whether that same intuition can
+calculated exactly for them. The present study tests whether that same intuition can
 be elicited and applied across sets of unique bets. What are the minimal
 conditions required to encourage aggregation? The multi-play gamble work
 suggests that participants can engage in a more intuitive form of aggregation
@@ -332,7 +332,7 @@ managers to accept all the investments. To each middle-manager, the choice
 represents a risk of loss for their division and potentially their job, whereas
 for the CEO the entire portfolio of choices represents a worthwhile risk.
 
-This chapter investigates risky choice in the context of business project
+The present study investigates risky choice in the context of business project
 investment internal to a company because this is a real-world context where
 choice bracketing is important and currently under-appreciated [@lovallo2020].
 The participants in these experiments were taken from a population that does not

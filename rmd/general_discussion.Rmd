@@ -3,7 +3,7 @@
 When making one decision about a series of risky choices, it is clear that
 people have an intuitive sense of the advantages of risk aggregation [e.g.,
 @samuelson1963]. However, because risky choices are typically made one at a time
-in the real world, this chapter aimed to identify whether (and how) this
+in the real world, the present study aimed to identify whether (and how) this
 intuition could be leveraged in this more realistic scenario. Overall, there was
 little evidence that subtle cues could tap into this intuitive advantage of risk
 aggregation, and clear visualisations of outcome distributions were needed to
@@ -13,7 +13,7 @@ were one. However, as elaborated below, the success of the outcome distribution
 for overcoming this cognitive barrier in the current paradigm is a novel and
 important finding.
 
-This chapter found that some choice bracketing facilitated risk aggregation in
+The present study found that some choice bracketing facilitated risk aggregation in
 description-based repeated-play gambles. This paradigm has never been a target
 of research. Early work on risk aggregation involved multi-play gambles, which
 treated gambles as simultaneous and identical. However, most risky choice
@@ -24,26 +24,26 @@ distributions. Large real-life investments are different, as their outcomes are
 not eventuated immediately (and do not allow for distribution sampling). The
 limited prior work using description-based repeated-play gambles did not
 consider the effect of choice bracketing on risk aggregation. As such, the
-paradigm used in this chapter allowed for the investigation of choice bracketing
+paradigm used in the present study allowed for the investigation of choice bracketing
 in a way that is more isomorphic with real-life prescriptions.
 
 Experiment 1 found evidence for the effects of similarity, presentation, and
 awareness of the number of projects. Experiment 2 found evidence for the effect
 of an outcome distribution but did not replicate the presentation and awareness
-effects. Subsequent follow up experiments (reported in
-Appendices \@ref(aggregation-3) and \@ref(aggregation-4)) again tested the
-similarity and awareness effects. These experiments found evidence for naive
-diversification (an advantage for low similarity) when considering all projects
-once and did not replicate the trial-by-trial interaction from Experiment 1.
+effects. Subsequent follow up experiments again tested the similarity
+[@dekel2021b, Appendix A.3] and awareness effects [@dekel2021b, Appendix
+A.4]. These experiments found evidence for naive diversification (an advantage
+for low similarity) when considering all projects once and did not replicate the
+trial-by-trial interaction from Experiment 1.
 
-Therefore, in addition to the novelty of the paradigm itself, this chapter found
-that choice bracketing facilitates risk aggregation, if aided by the aggregated
-distribution. As per Hypothesis \@ref(hyp:distribution-aggregation-2),
+Therefore, in addition to the novelty of the paradigm itself, the present study
+found that choice bracketing facilitates risk aggregation, if aided by the
+aggregated distribution. As per Hypothesis \@ref(hyp:distribution-aggregation-2),
 Experiment 2 found that showing a distribution of outcome probabilities without
 inter-trial feedback reduced risk aversion. Further, there was mixed evidence
 for Hypothesis \@ref(hyp:similarity-aggregation-1), such that people were less
 risk averse when the set of projects they saw were dissimilar, but only when
-offered them as a portfolio (see Appendix \@ref(aggregation-3)). There was only
+offered them as a portfolio [@dekel2021b, Appendix A.3]. There was only
 minimal evidence for Hypotheses \@ref(hyp:awareness-aggregation-1)
 and \@ref(hyp:presentation-aggregation-1), suggesting that viewing projects
 together and an awareness of the number of projects are not sufficient to
@@ -119,13 +119,13 @@ manipulation).
 
 This finding suggests that there may be trade-off between aggregation and
 diversification. The literature shows that people prefer multi-play gambles to
-single-play gambles. However, participants in this chapter were more likely to
+single-play gambles. However, participants in the present study were more likely to
 aggregate diverse repeated-play gambles to similar repeated-play gambles when
 these were bracketed broadly. Therefore, people are likely to still need choice
 bracketing. That is, diverse repeated-play gambles that are not bracketed are
 simply individual single-play gambles.
 
-One way to test this explanation is by using identical gambles. This chapter
+One way to test this explanation is by using identical gambles. The present study
 used unique gambles to increase ecological validity. However, the above
 explanation would predict that participants prefer non-identical repeated-play
 gambles to identical repeated-play gambles when these are bracketed. However,
@@ -164,7 +164,7 @@ multi-play gambles. This is said to be due to a "reliance on a very small set of
 samples" [@camilleri2013, p. 64]. However, this explanation does not account for
 repeated-play effects independently.
 
-The experiments in this chapter shed some light about the mechanisms behind why
+The experiments in the present study shed some light about the mechanisms behind why
 choice bracketing may affect risk aggregation in repeated-play gambles without
 feedback. Two explanations were proposed: participants may realise that some
 gains will offset the losses, or they may need explicit aggregation. Not finding
@@ -173,7 +173,7 @@ not intuitively consider that the gains of their choices may offset the
 potential losses. Perhaps the possibility of recouped losses would become more
 salient when other participants are explicitly told of this possibility, as in
 @sokolhessner2009. Their explicit instruction manipulation is introduced above
-as appearing unrealistically strong, but the results of this chapter suggest
+as appearing unrealistically strong, but the results of the present study suggest
 that people do need very explicit scaffolding in order to use risk aggregation.
 
 ### Practical Implications
@@ -191,7 +191,7 @@ aggregation process. Even more ideal would be to forecast project success using
 an entire probability distribution for the different possible outcomes. However,
 research shows that people struggle to construct such distributions [e.g.,
 @alpert1982; @schaefer1973; @staelvonholstein1971; @tversky1974] and
-Chapter \@ref(alignment) shows that people struggle to use such variance
+@dekel2021b [Chapter 4] shows that people struggle to use such variance
 information when making allocation decisions. Regardless, the benefits of risk
 aggregation can be used even if forecast information is limited (e.g., only a
 point estimate and a probability) and only one project is being considered.
@@ -205,7 +205,7 @@ of choices affected participants' risk aversion. This has implications for
 managerial settings. Executives in multi-business firms often have to make
 capital allocation decisions that involve comparing dissimilar projects. How can
 an oil well exploration project be appropriately compared to an oil refinery? Or
-to a microchip project? Chapter \@ref(alignment) suggests that evaluating
+to a microchip project? @dekel2021b [Chapter 4] suggests that evaluating
 dissimilar business projects is more difficult to comparing similar projects.
 The current work suggests that managers may actually be *less* likely to realise
 the benefits of aggregation when they are in a less diversified company. As
@@ -215,7 +215,7 @@ projects despite a potentially high level of diversification.
 
 ### Future Research
 
-The main novelty of the experiments in this chapter comes from increasing
+The main novelty of the experiments in the present study comes from increasing
 ecological validity of risky choice problems by removing inter-trial feedback.
 Future work should test even more realistic scenarios. Such studies should
 involve managers, ideally in multi-business firms. Investigating whether the
