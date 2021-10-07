@@ -53,6 +53,12 @@ link-citations    : yes
 header-includes:
   # %% Avoid extra spacing due to figures
   - \raggedbottom
+  # Fixes "and &" in title page. From:
+  # https://github.com/crsh/papaja/issues/342#issuecomment-882474297
+  - \renewcommand\author[1]{}
+  - \renewcommand\affiliation[1]{}
+  - \authorsnames[1, 1, 2, 1]{Shir Dekel, Micah Goldwater, Dan Lovallo, Bruce Burns}
+  - \authorsaffiliations{{The University of Sydney, School of Psychology}, {The University of Sydney, Business School}}
 
 csl               : "apa.csl"
 documentclass     : "apa7"
