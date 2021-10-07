@@ -1,6 +1,6 @@
 ---
-title             : "Effect of choice bracketing on risk aggregation in repeated-play gambles with no feedback"
-shorttitle        : "Effect of choice bracketing on risk aggregation"
+title             : "Effect of Choice Bracketing on Risk Aggregation in Repeated-Play Gambles With no Feedback"
+shorttitle        : "Effect of Choice Bracketing on Risk Aggregation"
 
 author: 
   - name          : "Shir Dekel"
