@@ -1,4 +1,4 @@
-### Discussion {#discussion-aggregation-1}
+## Discussion {#discussion-aggregation-1}
 
 Experiment 1 found evidence for most of the hypotheses. Specifically, people
 made more risky choices when considering those choices jointly on the same page,
@@ -8,7 +8,7 @@ presentation. Exploratory analyses showed that participants' risk aversion
 decreased as they proceeded through the trials, but only when participants were
 aware of the number of projects.
 
-#### Presentation Effect
+### Presentation Effect
 
 The presentation effect may be a result of one of two mechanisms. A mathematical
 aggregation explanation would mean that participants are combining the gambles
@@ -23,7 +23,7 @@ the joint display to consider the set of projects together. This could then lead
 to the conclusion that investing in a higher number of gambles might mean that
 the gains of some projects will pay off the losses of the other projects.
 
-#### Awareness Effect
+### Awareness Effect
 
 Experiment 1 found that participants that viewed the projects separately were
 more likely to invest in the projects as the trials went on, regardless of the
@@ -59,7 +59,7 @@ likely to materialise. Further, this would be more likely to occur for those
 that knew the total number of projects, because they knew when the sequence was
 approaching its end.
 
-#### Similarity Effect {#similarity-discussion-aggregation-1}
+### Similarity Effect {#similarity-discussion-aggregation-1}
 
 Experiment 1 did not find a main effect of similarity in the individual choice
 data as predicted in Hypothesis \@ref(hyp:similarity-aggregation-1). Instead,
@@ -107,7 +107,7 @@ able to see all ten projects, so already knew that there were no other projects
 in the set, and so were less likely to reject projects on the basis of the hope
 for different projects in the future.
 
-#### Limitations
+### Limitations
 
 This experiment had two major limitations. First, proper counterbalancing was
 not used in the high alignment project domain, nor in the order of the

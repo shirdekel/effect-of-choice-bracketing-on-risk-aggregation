@@ -1,6 +1,6 @@
-### Results {#results-aggregation-1}
+## Results {#results-aggregation-1}
 
-#### Project Choice
+### Project Choice
 
 A three-way analysis of variance (ANOVA) was conducted to investigate the
 effects of similarity, awareness, and presentation on the proportion of
@@ -39,7 +39,7 @@ plot_1$presentation
 plot_1$similarity_presentation
 ```
 
-#### Trial-by-Trial Analysis
+### Trial-by-Trial Analysis
 
 Exploratory analyses were conducted into the possible effects of the
 manipulations on a trial-by trial basis.

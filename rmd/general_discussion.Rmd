@@ -1,4 +1,4 @@
-## General Discussion
+# General Discussion
 
 When making one decision about a series of risky choices, it is clear that
 people have an intuitive sense of the advantages of risk aggregation [e.g.,

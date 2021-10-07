@@ -1,6 +1,6 @@
-### Method
+## Method
 
-#### Participants
+### Participants
 
 `r descriptives_1$apa` Table \@ref(tab:condition-allocation-aggregation-1)
 shows the allocation of participants to the different conditions.
@@ -10,16 +10,16 @@ descriptives_1$condition_allocation_table %>%
   apa_table("Experiment 1 group allocation.")
 ```
 
-#### Materials
+### Materials
 
-##### Instructions {#instructions-materials-aggregation-1}
+#### Instructions {#instructions-materials-aggregation-1}
 
 Participants were told to imagine that they are executives in a large company
 and that they will need to decide about investing in a number of hypothetical
 business projects. The appendix shows these instructions in
 Figure \@ref(fig:instructions-materials-aggregation-1).
 
-##### Risky Investment Task {#task-aggregation-1}
+#### Risky Investment Task {#task-aggregation-1}
 
 Participants saw 10 short descriptions of business projects, and were asked
 whether they would invest in that project or not. Each description included the
@@ -101,7 +101,7 @@ Companies that consider their forecast estimates probabilistically (i.e., do not
 simply use the most likely estimate as the only estimate) do frame their options
 as likelihoods of certain monetary outcomes.
 
-##### Outcome Distribution Decision {#outcome-distribution-materials-aggregation-1}
+#### Outcome Distribution Decision {#outcome-distribution-materials-aggregation-1}
 
 Participants were asked if they would invest in the last 10 projects they saw
 and were provided with a graph of the outcome probability distribution of the 10
@@ -113,14 +113,14 @@ be discussed until Experiment 2, which fixed this issue.
 Appendix \@ref(outcome-distribution-aggregation-1) presents an analysis of these
 data, and describes the coding error and its implications.
 
-##### Follow-up Gambles
+#### Follow-up Gambles
 
 Participants were shown four further sets of gambles (11 total) that checked
 participant attention and replicated the gambles from @samuelson1963 and
 @redelmeier1992. See Appendix \@ref(follow-up-materials-aggregation-1-appendix)
 for details.
 
-#### Procedure
+### Procedure
 
 Participants read the instructions and completed the risky investment task,
 first in the separate presentation condition, and then in the joint condition.

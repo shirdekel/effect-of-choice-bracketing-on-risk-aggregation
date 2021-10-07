@@ -1,7 +1,5 @@
 # Effect of Choice Bracketing on Risk Aggregation in Repeated-Play Gambles With no Feedback {#aggregation}
 
-## Introduction
-
 Investors know not to put all their eggs in one basket. Ever since work on
 modern portfolio theory [@markowitz1952], it has been clear that combining the
 risk of a set of individual investments reduces the overall risk of the
@@ -63,7 +61,7 @@ of encouraging participants to bracket their risky choices, but with a paradigm
 that involves a series of independent choices without feedback. In this way, the
 paradigm is more isometric with real-life risky choice.
 
-### Multi-Play Gambles
+## Multi-Play Gambles
 
 Despite the difficulties of risk aggregation, people seem to aggregate "naively"
 when considering multiple gambles. @samuelson1963 told of a colleague who
@@ -132,7 +130,7 @@ struggle to compute the aggregation without external help.
 tar_read(samuelson_distribution)
 ```
 
-### Repeated-Play Gambles
+## Repeated-Play Gambles
 
 Decisions in real life are usually sequential and rarely identical as in the
 multi-play paradigm [cf. @barron2003]. That is, people tend to be confronted
@@ -187,7 +185,7 @@ aversion. The experiments in this chapter are novel because their goal is to
 facilitate risk aggregation without the experimental artefact of immediate
 feedback.
 
-### Choice Bracketing
+## Choice Bracketing
 
 Research in psychology and economics has identified ways of facilitating risk
 aggregation by encouraging people to group their choices. Specifically, people
@@ -295,7 +293,7 @@ averse when receiving feedback for each trial, compared to every three trials.
 Testing a presentation manipulation without the confound of feedback will help
 to clarify this effect.
 
-### Internal Capital Market Investment Context
+## Internal Capital Market Investment Context
 
 Executives of large, successful firms are often viewed as fearless risk-takers
 who take on risky projects to generate innovation and growth. However, the

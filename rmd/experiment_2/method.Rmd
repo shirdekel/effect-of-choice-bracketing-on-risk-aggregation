@@ -1,6 +1,6 @@
-### Method
+## Method
 
-#### Participants
+### Participants
 
 `r descriptives_2$apa` Table \@ref(tab:condition-allocation-aggregation-2)
 shows the allocation of participants to the different conditions.
@@ -12,14 +12,14 @@ descriptives_2$condition_allocation_table %>%
   apa_table("Experiment 2 group allocation.")
 ```
 
-#### Materials
+### Materials
 
-##### Instructions
+#### Instructions
 
 Participants were shown the same instructions as in Experiment 1 (see
 Section \@ref(instructions-materials-aggregation-1)).
 
-##### Risky Investment Task {#task-aggregation-2}
+#### Risky Investment Task {#task-aggregation-2}
 
 Participants saw a similar display to the one in Experiment 1 (see
 Section \@ref(task-aggregation-1)), but with new gamble values, in order to fix
@@ -43,7 +43,7 @@ file.path(
   image_trim()
 ```
 
-##### Follow-up {#follow-up-aggregation-2}
+#### Follow-up {#follow-up-aggregation-2}
 
 Participants were asked how many projects they thought they saw, whether they
 were willing to accept all or none of the projects, and how many they would be
@@ -51,7 +51,7 @@ willing to accept if they had to choose a number.
 Appendix \@ref(follow-up-materials-aggregation-2-appendix) shows these
 questions.
 
-#### Procedure
+### Procedure
 
 Participants read the instructions and completed the risky investment task in
 their respective conditions. After seeing the individual projects, participants
