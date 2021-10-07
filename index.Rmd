@@ -37,7 +37,7 @@ abstract: (ref:abstract)
 keywords          : "choice bracketing, risk aggregation, risk aversion, decision making, structural alignment"
 wordcount         : "9018"
 
-bibliography      : '`r here::here("references.bib")`'
+bibliography      : "references.bib"
 
 floatsintext      : yes
 figurelist        : no
@@ -54,7 +54,7 @@ header-includes:
   # %% Avoid extra spacing due to figures
   - \raggedbottom
 
-csl               : '`r here::here("apa.csl")`'
+csl               : "apa.csl"
 documentclass     : "apa7"
 classoption       : "man, donotrepeattitle"
 output            : papaja::apa6_pdf
