@@ -1203,8 +1203,8 @@
       "RemoteRepo": "papaja",
       "RemoteUsername": "crsh",
       "RemoteRef": "devel",
-      "RemoteSha": "db55691f9141bfbfa0ad1ddda8a025fa5469071a",
-      "Hash": "51c69eefed27eff81b7608d801202a89"
+      "RemoteSha": "eef646a181b6a2f0061af6bb70c115f47ba9b0b1",
+      "Hash": "9b1e2505279e55520b3c0d8e69334441"
     },
     "parameters": {
       "Package": "parameters",
@@ -1484,9 +1484,14 @@
     "rmdfiltr": {
       "Package": "rmdfiltr",
       "Version": "0.1.3",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Hash": "d2e1277195d221e6118d8a77dda2e877"
+      "Source": "GitHub",
+      "RemoteType": "github",
+      "RemoteHost": "api.github.com",
+      "RemoteRepo": "rmdfiltr",
+      "RemoteUsername": "crsh",
+      "RemoteRef": "HEAD",
+      "RemoteSha": "434ab0d665e663ce7ea0e18c5db1a9327a7b4d8f",
+      "Hash": "2501c9b400a698b4198d7730ff4bbfa8"
     },
     "rpart": {
       "Package": "rpart",
@@ -1687,10 +1692,10 @@
     },
     "tibble": {
       "Package": "tibble",
-      "Version": "3.1.4",
+      "Version": "3.1.5",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "5e8ad5621e5c94b24ec07b88eee13df8"
+      "Hash": "36eb05ad4cfdfeaa56f5a9b2a1311efd"
     },
     "tidyr": {
       "Package": "tidyr",
